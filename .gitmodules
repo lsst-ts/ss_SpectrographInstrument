@@ -1,3 +1,0 @@
-[submodule "ts_labview_tcp"]
-	path = ts_labview_tcp
-	url = https://github.com/lsst-ts/ts_labview_tcp.git
